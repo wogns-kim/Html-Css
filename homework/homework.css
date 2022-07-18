@@ -1,0 +1,33 @@
+.container {
+  width: 800px;
+  height: 300px;
+  background-color: orange;
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+}
+.header {
+  width: 100%;
+  height: 20%;
+  background-color: black;
+  color: white;
+}
+
+.img-lion {
+  width: 10%;
+  height: 100%;
+}
+
+.content {
+  width: 100%;
+  height: 80%;
+  background-color: aqua;
+  margin-right: auto;
+}
+
+.left-image {
+  width: 100px;
+  height: 300px;
+  background-color: beige;
+  float: right; 
+}
