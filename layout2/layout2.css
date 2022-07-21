@@ -31,18 +31,18 @@
 }
 
 .ap-background{
-  width: 450px;
-  height: 200px;
-  background-color: #eee;
-  margin-right: auto;
-  margin-left: auto;
-  position: relative;
-  top: 100px;
-}
-.ap-write{
+  width: 700px;
+  margin: auto;
+  padding: 20px;
   text-align: center;
+  background-color: #eee;
+  position: relative;
+  top: 80px;
 }
 
-.ap-write > h4 {
-  padding-top: 30px;
+.text-input[type = text]{
+  padding: 10px;
+  font-size: 20px;
+  border:  2px solid black;
+  border-radius: 5px;
 }
