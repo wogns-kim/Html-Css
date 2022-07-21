@@ -6,14 +6,43 @@
   background-repeat: no-repeat;
   background-position: center;
   padding: 1px;
+  position: relative;
 }
 
 .main-title {
   color: white;
   font-size: 40px;
   margin-top: 100px;
+  text-align: center;
 }
 
-.content{
-    color: white;
+.content {
+  color: white;
+  text-align: center;
+}
+
+.main-button {
+  padding: 15px;
+  font-size: 20px;
+  background: white;
+  border: none;
+  border-radius: 5px;
+  position: absolute;
+}
+
+.ap-background{
+  width: 450px;
+  height: 200px;
+  background-color: #eee;
+  margin-right: auto;
+  margin-left: auto;
+  position: relative;
+  top: 100px;
+}
+.ap-write{
+  text-align: center;
+}
+
+.ap-write > h4 {
+  padding-top: 30px;
 }
